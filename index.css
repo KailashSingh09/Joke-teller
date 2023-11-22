@@ -33,7 +33,7 @@ body{
     border-radius: 3px;
     border: 1px solid black;
     width: 535px;
-    box-sizing: border-box;
+    box-sizing: border-box; 
     text-align: center;
     /* background-color: rgba(0, 255, 255,0.4); */
     background-color: white;
